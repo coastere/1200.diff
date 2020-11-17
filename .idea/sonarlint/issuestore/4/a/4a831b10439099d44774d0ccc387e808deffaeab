@@ -1,0 +1,8 @@
+
+J	java:S108")Either remove or fill this block of code.(ë³–şûÿÿÿÿ8†—ñ¤İ.
+S
+java:S1854"7Remove this useless assignment to local variable "min".(¯²58€ó¤İ.
+{
+java:S2293"YReplace the type specification in this constructor call with the diamond operator ("<>").(‡ºÀŞÿÿÿÿÿ8û‘¥İ.
+D
+java:S1481"(Remove this unused "min" local variable.(¯²58€ó¤İ.
